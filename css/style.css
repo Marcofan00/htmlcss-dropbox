@@ -9,13 +9,13 @@ header{
     
 }
 
-a{
+.ul-menu{
     text-decoration: none;
     color: black;
     margin: 10px;
 }
 
-li{
+.li1{
     display:inline-block;
     list-style: none;
 }
@@ -99,3 +99,22 @@ li{
 .checkbox{
     margin:20px auto;
 } 
+
+.colonna1{
+    float: left;
+    width: 30%;
+    margin: 1px;
+
+}
+
+.colonna2{
+    float: left;
+    width: 30%;
+    margin: 1px;
+}
+
+.colonna3{
+    float: left;
+    width: 30%;
+    margin: 1px;
+}
