@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif
+}
+
+header{
+    margin: 20px;
+    
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}
+
+li{
+    display:inline-block;
+    list-style: none;
+}
+
+#nav-left{
+    display:inline-block;
+    margin-top: -10px;
+    width: 40%;
+    vertical-align: middle;
+    
+}
+
+#nav-right{
+    vertical-align: middle;
+    float: right;
+    margin-right: 40px;
+    margin-top: 1px;
+}
+
+.blu{
+    background-color: blue;
+    color: white;
+    border: 7px solid blue;
+}
+
+.prima-sez{
+    background-color: rgb(146, 173, 224);
+    height: 90vh;
+    width: 100%;
+    font-size: 35px;
+}
+
+.tit{
+    width: 85%;
+    height: 600px;
+    margin-left: 10%;
+    padding-top: 80px;
+}
+
+.paragrafo1{
+    padding-top: 30px;
+    width: 40%;
+    font-size: 20px;
+    text-align: left;
+}
+
+#but-par1{
+    padding-top: 10px;
+}
+
+#but-par1 p{
+    padding-top: 10px;
+    font-size: 20px;
+
+}
+
+.fas{
+    margin-top: 20px;
+    color: black;
+}
+
+.tit img{
+    float: right;
+    height: 450px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
