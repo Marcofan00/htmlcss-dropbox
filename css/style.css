@@ -91,7 +91,7 @@ nav{
 }
 /* seconda sez */
 .sec-sez{
-    height: 200vh;
+    height: 230vh;
     width: 70%;
     margin: auto;
 }
@@ -243,6 +243,7 @@ ul{
     display: table;
     clear: both;
     margin-left: 10%;
+    height: 150vh;
 }
 
 .img-clear-2{
@@ -261,4 +262,162 @@ ul{
 
 .tit-operazioni{
     margin-bottom: 10px;
+}
+
+.container-img{
+    width: 100%;
+    height: 80vh;
+}
+
+#img-top{
+    height: 45vh;
+}
+
+#img-left{
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+
+#img-center{
+    height: 100%;
+    width: 40%;
+    float: left;
+    background-color: lightgray;
+}
+
+#img-center img{
+    height: 50px;
+    margin:30px;
+
+}
+
+#par-img-center{
+    margin-bottom: 30px;
+}
+
+#img-right{
+    height: 100%;
+    width: 30%;
+    float: right;
+
+}
+
+.top-left{
+    height: 50%;
+    width: 50%;
+    float: left;
+    background-color: rgb(102, 177, 102);
+    background-position: center;
+}
+
+.top-right{
+    height: 50%;
+    width: 50%;
+    float: right;
+    background-color: rgb(119, 20, 20);
+}
+
+.bottom-left{
+    height: 50%;
+    width: 50%;
+    float: left;
+    background-color: rgb(59, 123, 206);
+}
+
+.bottom-right{
+    height: 50%;
+    width: 50%;
+    float: right;
+    background-color: red;
+}
+
+.top-left img{
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.top-right img{
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.bottom-left img{
+    height: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.bottom-right img{
+    height: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+#right1{
+    background-color: red;
+}
+
+#right2{
+    background-color: rgb(146, 173, 224);
+}
+#right2 img{
+    height: 20px;
+    margin-top: 70px;
+}
+
+#right3{
+    background-color: rgb(3, 3, 148);
+}
+#right3 img{
+    height: 50px;
+    margin-top:50px;
+}
+
+#right4{
+    background-color: yellow;
+}
+
+#img-bottom{
+    height: 35vh;
+    background-color: rgb(141, 198, 233);
+}
+
+.tit-5{
+    font-size: 20px;
+    margin-left: 15%;
+    margin-bottom: 20px;
+}
+
+#link{
+    margin-left: 15%;
+}
+
+#tit-bottom{
+    margin-left: 10%;
+    padding: 5%;
+    display: inline-block;
+    width: 40%;
+    font-size: 30px;
+    color: rgb(128, 13, 13);
+}
+
+#button-white{
+    float: right;
+    background-color: white;
+    border: 1px solid white;
+    padding: 4px;
+    margin-right: 10%;
+    margin-top: 5%;
+    width: 20%;
 }
